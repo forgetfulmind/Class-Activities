@@ -1,0 +1,19 @@
+cd - change directory 
+cd ** where star is name of directory 
+mkdir - make directory 
+touch - make file 
+touch ** file name
+&&  - and operator
+ls - show files in current folder 
+ls | grep ** where ** is name of file or directory  
+
+Look into scripting in the shell 
+
+gitbash directory: https://www.kernel.org/doc/man-pages/
+
+powershell 
+
+title in html is the tab name 
+
+
+
